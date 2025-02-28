@@ -7,4 +7,5 @@ public class UserAdult extends UserData implements UserValidationAdult {
     public void validationUser() {
         System.out.println("Gerando validações do usuário");
     }
+
 }
