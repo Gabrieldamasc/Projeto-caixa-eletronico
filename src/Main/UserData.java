@@ -8,7 +8,5 @@ public abstract class UserData {
     private String userGender;
 
     public void readUserData(){
-        Scanner userInput = new Scanner(System.in);
-        System.out.println("Digite");
     }
 }
